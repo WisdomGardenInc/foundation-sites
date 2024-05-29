@@ -1,6 +1,6 @@
 {
   "name": "@wisdomgarden/foundation-sites",
-  "version": "5.5.2",
+  "version": "5.5.2-3",
   "main": "js/foundation/foundation.js",
   "devDependencies": {
     "assemble": "~0.4.37",
